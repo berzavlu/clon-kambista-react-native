@@ -1,0 +1,14 @@
+https://reactnavigation.org/docs/en/stack-navigator.html#examples
+https://reactnavigation.org/docs/en/status-bar.html
+https://reactnavigation.org/docs/en/stack-navigator.html#headerbackimage
+https://reactnavigation.org/docs/en/app-containers.html
+
+https://medium.com/containers-on-aws/scaling-a-realtime-chat-app-on-aws-using-socket-io-redis-and-aws-fargate-4ed63fb1b681
+https://github.com/nathanpeck/socket.io-chat-fargate
+https://medium.com/containers-on-aws/building-a-socket-io-chat-app-and-deploying-it-using-aws-fargate-86fd7cbce13f
+
+https://blog.jayway.com/2015/04/13/600k-concurrent-websocket-connections-on-aws-using-node-js/
+
+https://www.purplesquirrels.com.au/2017/09/getting-websockets-working-with-node-socket-io-and-elastic-beanstalk/
+
+https://aws.amazon.com/es/blogs/database/how-to-build-a-chat-application-with-amazon-elasticache-for-redis/
